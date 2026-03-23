@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Inkbird ITC‑308",
+        "description": "Provide the details for your Inkbird ITC‑308 WiFi controller.",
+        "data": {
+          "device_id": "Device ID",
+          "host": "IP Address",
+          "local_key": "Local Key",
+          "scan_interval": "Scan interval (seconds)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to device.",
+      "invalid_auth": "Invalid device credentials.",
+      "unknown": "Unexpected error."
+    }
+  }
+}
