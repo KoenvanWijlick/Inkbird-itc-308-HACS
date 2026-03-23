@@ -1,6 +1,5 @@
 {
   "name": "Inkbird ITC-308 WiFi",
   "homeassistant": "2024.1.0",
-  "render_readme": true,
-  "country": "NL"
+  "render_readme": true
 }
